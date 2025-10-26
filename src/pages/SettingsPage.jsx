@@ -338,7 +338,7 @@ const SettingsPage = () => {
               </div>
               <div className="flex justify-between items-center p-3 bg-gray-50 rounded-xl">
                 <span className="font-medium text-gray-700">Được phát triển bởi</span>
-                <span className="text-gray-600">Loveline Team</span>
+                <span className="text-gray-600">tình iu của Tùng Phạm dành cho Bảo Ly</span>
               </div>
             </div>
           </CardContent>
@@ -354,8 +354,8 @@ const SettingsPage = () => {
               Loveline
             </h3>
             <p className="text-gray-600 leading-relaxed">
-              Ứng dụng dành cho các cặp đôi để cùng nhau tạo và lưu giữ những kỷ niệm đẹp. 
-              Chia sẻ khoảnh khắc, tạo album ảnh và theo dõi hành trình yêu thương của bạn.
+              Ứng dụng dành cho các Tùng Phạm và Bảo Ly để cùng nhau tạo và lưu giữ những kỷ niệm đẹp. 
+              Chia sẻ khoảnh khắc, tạo album ảnh và theo dõi hành trình yêu thương của chúng ta.
             </p>
           </CardContent>
         </Card>
